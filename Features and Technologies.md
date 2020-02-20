@@ -1,0 +1,9 @@
+### Tell us about the features and technologies you used in your Swift playground.
+
+When you look out the window what do you see?
+Colours and shapes such as square window, circular wheels, triangular roofs. Our world is full of shapes. I believe I developed this playground to help visual agnosia patients and children to learn and identify shapes. Visual Agnosia patients can describe visual scenes or shapes but still fail to recognize them. For example, they know that a square has four edges but may mistake it for a pentagon. The general principles of treatment such as restitution, repetitive training of impaired ability help patients to get better. This playground provides repetitive training in audiovisual format to memorize basic shapes using SpriteKit. 
+
+RoadRash is an engaging game developed specially to spread awareness about electric vehicles and their benefits for the environment. I have developed applications using UIKit, but I always want to develop a game using SpriteKit. SpriteKit is a great framework for drawing shapes, texts, and images in two dimensions. I remarkably get used to its simple programming interface. SpriteKit made it easy for me to create a game as a beginner. I have added physics behaviors to nodes in-game scene to make it alive.
+
+I created all image assets using photoshop. I can able to display such more image assets using high-performance rendering capabilities of SpriteKit. The physics simulation allowed me to make this game more immersive to play. I've also used AVFoundation to add sound effects in a swift playground. The sound effect provides rich feedback on continuing actions in the game. I recorded some of the sound effects in Siri's voice using the Voice Memos app and downloaded the rest sound effects.
+The fun audiovisual shape matching game is a very efficient way of learning shapes for preschoolers.
